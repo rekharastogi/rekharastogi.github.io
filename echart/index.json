@@ -11,7 +11,7 @@
 	  {
 		"kind": "main",
 		"tag": "com-sap-sample-echarts-life_expectancy2",
-		"url": "http://127.0.0.1:5500/echart/main.js",
+		"url": "https://rekharastogi.github.io/echart/main.js",
 		"integrity": "",
 		"ignoreIntegrity": true
 	  }
